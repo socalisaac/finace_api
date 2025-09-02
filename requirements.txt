@@ -1,12 +1,15 @@
 # requirements.txt
 
-# PostgreSQL adapter for Python
+# PostgreSQL adapter for Python Neon
 psycopg2-binary
 
 # Load environment variables from .env files
 python-dotenv
 
-# For Jupyter Notebooks (if needed)
+# ODBC adapter for Python MS SQL Server
+pyodbc
+
+# Jupyter Notebook support
 ipykernel 
 
 # Data visualization
