@@ -8,3 +8,9 @@ python-dotenv
 
 # For Jupyter Notebooks (if needed)
 ipykernel 
+
+# Data visualization
+matplotlib
+
+# Data manipulation and analysis
+pandas
