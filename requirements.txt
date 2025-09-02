@@ -1,0 +1,10 @@
+# requirements.txt
+
+# PostgreSQL adapter for Python
+psycopg2-binary
+
+# Load environment variables from .env files
+python-dotenv
+
+# For Jupyter Notebooks (if needed)
+ipykernel 
